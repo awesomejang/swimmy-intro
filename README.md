@@ -5,9 +5,9 @@
 > 이 저장소는 프로젝트 소개용입니다. 소스 코드는 비공개 저장소에서 개발하고 있으며, 정식 출시를 목표로 1인 개발 중입니다.
 
 <p align="center">
-  <img src="images/map.png" width="240" alt="지도 홈: 수도권 수영장 마커 묶음" />
-  <img src="images/pool-detail.png" width="240" alt="수영장 상세: 레인·요금·기본 정보" />
-  <img src="images/club-detail.png" width="240" alt="모임 상세: 소개·멤버·활동 수영장" />
+  <img src="images/demo.gif" width="300" alt="지도에서 수영장을 찾고, 상세 정보와 활동 모임을 거쳐 모임 상세까지 보는 흐름" />
+  <br />
+  <sub>지도 탐색 → 자유수영 필터 → 수영장 검색 → 상세 정보 → 이 수영장에서 활동하는 모임</sub>
 </p>
 
 ## 왜 만들었나
@@ -20,6 +20,12 @@
 그래서 직접 만들어 봤습니다. Swimmy는 **수영장 정보**와 **수영 동아리(모임)**를 한 곳에 모아, 내 근처 수영장을 찾고 그 수영장에서 함께 수영할 사람들까지 만날 수 있게 하는 것을 목표로 합니다.
 
 ## 주요 기능
+
+<p align="center">
+  <img src="images/map.png" width="240" alt="지도 홈: 수도권 수영장 마커 묶음" />
+  <img src="images/pool-detail.png" width="240" alt="수영장 상세: 레인·요금·기본 정보" />
+  <img src="images/club-detail.png" width="240" alt="모임 상세: 소개·멤버·활동 수영장" />
+</p>
 
 ### 수영장 찾기
 
